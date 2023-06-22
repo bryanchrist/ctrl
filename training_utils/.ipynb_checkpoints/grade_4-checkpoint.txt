@@ -1,0 +1,301 @@
+Sum Question: Kiera has 14 blue envelopes. She has 6 fewer yellow envelopes than blue envelopes. She has 3 times as many green envelopes as yellow envelopes. How many envelopes does Kiera have in all? Equation: 14+(14-6)+((14-6)*3)=46
+Subtraction Question: Sara's mother gave her $69 to go to the store. Sara bought 3 loaves of bread and 5 cartons of orange juice. Each loaf of bread cost $2 and each carton of orange juice cost $3. How much money does Sara have left? Equation: 69-(3*2)-(5*3)=48
+Subtraction Question: Shelby had 92 pieces of candy. She gave 4 pieces each to 9 friends. How many pieces of candy does Shelby have left? Equation: 92-(4*9)=56
+Subtraction Question: Jermaine saved $43 in March. He saved $19 in April and $16 in May. Then Jermaine spent $77 on a keyboard. How much money does Jermaine have left? Equation: 43+19+16=78; 78-77=1
+Sum Question: In Ben's classroom there are red chairs, yellow chairs, and blue chairs. There are 3 red chairs. There are 4 times as many yellow chairs as red chairs, and there are 2 fewer blue chairs than yellow chairs. How many chairs are there in Ben's classroom? Equation: 3*4=12; 12-2=10; 3+12+10=25
+Subtraction Question: Anita needs 26 cartons of berries to make a berry cobbler. She already has 10 cartons of strawberries and 9 cartons of blueberries. How many more cartons of berries should Anita buy? Equation: 26-(10+9)=7
+Addition Question: A group of 4 children and 3 adults are going to the zoo. Child tickets cost $3, and adult tickets cost $6. How much will the zoo tickets cost in all? Equation: (4*3)+(3*6)=30
+Addition Question: A group of science students went on a field trip. They took 2 vans and 3 buses. There were 8 people in each van and 20 people in each bus. How many people went on the field trip? Equation: (8*2)+(3*20)=76
+Floor-Division Question: An airplane hangar is 300 feet long. How many planes can fit into it, end to end, if each plane is 40 feet long? Equation: 300/40=7 r20
+Floor-Division Question: It takes 3 eggs to make a cake. How many cakes can you make with 37 eggs? Equation: 37/3=12 r1
+Ceil-Division Question: 105 people are going to a movie. 6 people can ride in each car. How many cars are needed to get all 105 people to the movie? Equation: 105/6=17 r3
+Surplus Question: Ms. Baker has 17 cupcakes. She wants to share them equally among her 3 children so that no one gets more than anyone else. If she gives each child as many cupcakes as possible, how many cupcakes will be left over for Ms. Baker to eat? Equation: 17/3=5 r2
+Floor-Division Question: 89 cookies are being shared equally among 4 people. How many does each person get? Equation: 89/4=22 r1
+Subtraction Question: 19 children take a minibus to the zoo. They are to sit 2 or 3 to a seat. There are 7 seats. How many seats will have 3 children seated on them? Equation: 19-(7*2)=5
+Sum Question: Savant has 3 jars. He puts in 34 coins in the first jar, 29 coins in the second jar and 13 coins in the third jar. How many coins does Savant save together? Equation: 34+29+13=76
+TVQ-Initial Question: An online toy store stocked some toys. It sold 38 toys at the first week and 26 toys at the second week. If it had 19 toys left, how many toys were in stock at the beginning? Equation: 38+26+19=83
+TVQ-Initial Question: Mother bought some potatoes. She used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes. If there were 13 potatoes left, how many potatoes did mother buy at first? Equation: 15+24+13=52
+Sum Question: Joshua has 3 toy boxes for his toy cars. He puts in 21 toy cars in the first toy box, 31 toy cars in the second toy box and 19 toy cars in the third box. How many toy cars does Joshua have together? Equation: 21+31+19=71
+Sum Question: There are some rooms in a building. 35 of them are classrooms, 10 of them are office and the remaining 6 are reading rooms. How many rooms are in the building? Equation: 35+10+6=51
+TVQ-Change Question: Mr. Peter harvested some pears. He picked 43 kg of the pears into a bag and 35 kg of the pears into another bag. If there were still 15 kg of pears left unpacked, how many kilograms of pears did Mr. Peter harvest? Equation: 43+35+15=93
+TVQ-Initial Question: Gary had some stickers. He gave 42 stickers to Lucy and 26 stickers to Alex. If he had 31 stickers left, how many stickers did Gary have at first? Equation: 42+26+31=99
+Sum Question: A chef served 3 different foods for a banquet: 25 plates lobster rolls, 14 plates of spicy hot noodles and 16 plates of seafood noodles. How many plates of food did the chef make altogether? Equation: 25+14+16=55
+Sum Question: A car dealer sold 14 cars on the first day, 16 cars on the second day, and 27 cars on the third day. How many cars did the car dealer sell on the 3 days? Equation: 14+16+27=57
+Ceil-Division Question: A washing machine can wash 28 pounds of clothes per day. If there are 200 pounds of clothes to be washed per day, how many washing machines are needed? Equation: 200/28=7 r4
+Surplus Question: A washing machine can wash 28 pounds of clothes per day. If there are 200 pounds of clothes to be washed per day, how many pounds of clothes does the washing machine that isn't fully loaded wash per day? Equation: 200/28=7 r4
+Ceil-Division Question: There are 757 pounds of sand to be filled into bags. If each bag has a capacity of 65 pounds, how many bags are needed? Equation: 757/65=11 r42
+Surplus Question: There are 757 pounds of sand to be filled into bags. If each bag has a capacity of 65 pounds, how many pounds of sand are there in the bag that is not full? Equation: 757/65=11 r42
+Ceil-Division Question: If Simon needs to make 519 gift bags at a rate of 42 bags per day, how many days does he need to finish making all the gift boxes? Equation: 519/42=12 r15
+Surplus Question: If Simon needs to make 519 gift bags at a rate of 42 bags per day, how many gift bags will he make on the last day? Equation: 519/42=12 r15
+Ceil-Division Question: Jane can arrange 16 vases of flowers in a day. If there are 248 vases of flowers to be arranged, how many days are needed for her to finish all the flower arrangements? Equation: 248/16=15 r8
+Surplus Question: Jane can arrange 16 vases of flowers in a day. If there are 248 vases of flowers to be arranged, how many vases of flowers will she arrange on the last day? Equation: 248/16=15 r8
+Ceil-Division Question: A box can hold 18 pieces of chalk. If there are 3,484 pieces of chalk, how many boxes are full to hold all the chalk? Equation: 3484/18=193 r10
+Surplus Question: A box can hold 18 pieces of chalk. If there are 3,484 pieces of chalk, how many chalks are there in the box that is not full? Equation: 3484/18=193 r10
+Ceil-Division Question: A paper bag can hold 16 cookies. If Edgar buys 292 cookies, how many paper bags does he need? Equation: 292/16=18 r4
+Surplus Question: A paper bag can hold 16 cookies. If Edgar buys 292 cookies, how many cookies are there in the paper bag that is not full? Equation: 292/16=18 r4
+Ceil-Division Question: A bus can transport 48 passengers. If a school of 1,230 students and teachers are going on a field trip, how many buses should be rented? Equation: 1230/48=25 r30
+Surplus Question: A bus can transport 48 passengers. If a school of 1,230 students and teachers are going on a field trip, how many passengers are there on the bus that is not fully occupied? Equation: 1230/48=25 r30
+Ceil-Division Question: If Tom plans to fix 158 watches at the rate of 12 watches per day, how many days does he need to fix the watches? Equation: 158/12=13 r2
+Surplus Question: If Tom plans to fix 158 watches at the rate of 12 watches per day, how many watches will he fix on the last day? Equation: 158/12=13 r2
+Ceil-Division Question: Jack is reading a 285-page book. If he reads 23 pages per day, how many days will he take to finish reading the book? Equation: 285/23=12 r9
+Surplus Question: Jack is reading a 285-page book. If he reads 23 pages per day, how many pages will he read on the last day? Equation: 285/23=12 r9
+Ceil-Division Question: The capacity of a tank is 32 gallons. If a company bought 728 gallons of oil, how many tanks are needed to hold all the oil? Equation: 728/32=22 r24
+Surplus Question: The capacity of a tank is 32 gallons. If a company bought 728 gallons of oil, how much oil is in the tank that is not full? Equation: 728/32=22 r24
+Subtraction Question: There are 250 vitamins in a bottle. Gil takes 12 vitamins per day. How many vitamins short of his usual 12 vitamins is Gil on the day the bottle runs out? Equation: 250/12=20 r10; 12-10=2
+Subtraction Question: A farmer bought 164 rabbits. If the farmer wanted to fill 17 cages with the same number of rabbits, how many more rabbits should the farmer buy? Equation: 164/17=9 r11; 17-11=6
+Subtraction Question: 650 lollipops are to be distributed to 42 kids. If all the kids share all of the lollipops equally, at least how many more lollipops are needed? Equation: 650/42=15 r20; 42-20=22
+Subtraction Question: Mrs. Dalloway made 85 tarts. If she wants to fill 10 boxes with the same number of tarts, how many more tarts should she make? Equation: 85/10=8 r5; 10-5=5
+Subtraction Question: A library buys 4,305 new books. If it wants to shelve them equally onto 83 shelves, how many more new books should be purchased? Equation: 4305/83=51 r72; 83-72=11
+Subtraction Question: A company buys 88 bureaus for 14 offices. If each office should get an equal number of bureaus, how many more bureaus are needed at least? Equation: 88/14=6 r4; 14-4=10
+Subtraction Question: Betty has 367 beads and wants to use all the beads to make necklaces. If she wants to make 15 necklaces with each having the same number of beads, how many more beads does she need? Equation: 367/15=24 r7; 15-7=8
+Subtraction Question: There are 315 cups of puddings to be distributed to 218 students. If each of them wants an equal number of pudding cups, at least how many more pudding cups are needed? Equation: 315/218=1 r97; 218-97=121
+Subtraction Question: Sam has 389 riddles for 18 of his students to guess. If he wants the students to guess the same number of riddles, at least how many more riddles does he need to distribute? Equation: 389/18=21 r11; 18-11=7
+Subtraction Question: A school buys 1,093 chairs. If it wants to distribute them equally into 35 classrooms, how many more chairs should be purchased? Equation: 1093/35=31 r8; 35-8=27
+Subtraction Question: The weight of 2 bags of chips is 800 g. The total weight of 5 such bags of chips and 4 bottles of juice is 2 kg 200 g. How much heavier is a bag of chips than a bottle of juice? Equation: (800/2)-((2200-(800/2)*5)/4)=350
+Subtraction Question: The weight of 5 diamonds is 100 g. The total weight of 4 diamonds and 2 jades is 140 g. How much heavier is a jade than a diamond? Equation: ((140-(100/5)*4)/2)-(100/5)=10
+Subtraction Question: The weight of 5 single beds is 50 kg. The total weight of 2 single beds and 4 double beds is 100 kg. How much heavier is a double bed than a single bed? Equation: ((100-(50/5)*2)/4)-(50/5)=10
+Subtraction Question: The weight of 3 glass bottles is 600 g. The total weight of 4 glass bottles and 5 plastic bottles is 1 kg 50 g. How much heavier is a glass bottle than a plastic bottle? Equation: (600/3)-((1050-(600/3)*4)/5)=150
+Subtraction Question: The weight of 5 foxes is 25 kg. The total weight of 3 foxes and 5 dogs is 65 kg. How much heavier is a dog than a fox? Equation: ((65-(25/5)*3)/5)-(25/5)=5
+Subtraction Question: The weight of 4 watermelons is 5 kg 200 g. The total weight of 3 such watermelons and 4 pineapples is 5 kg 700 g. How much heavier is a watermelon than a pineapple? Equation: (5200/4)-((5700-(5200/4)*3)/4)=850
+Subtraction Question: The weight of 4 cakes is 800 g. The total weight of 3 cakes and 5 pieces of bread is 1 kg 100 g. How much heavier is a cake than a piece of bread? Equation: (800/4)-((1100-(800/4)*3)/5)=100
+Addition Question: A train from London to Paris sets out every 50 min. The second train from London to Berlin sets out every 25 min. The train from London to Dublin sets out every 40 min. If the three trains set out together at 8:10 from London, at what time will they set out together again? Equation: (8*60 (min/hour) + 10) + LCM[50,25,40] + 0 = 690 (min); 690/60 (min/hour)=11 r30; hh:mm=11:30
+Addition Question: Tony packs a bag of fruits every 10 min, Sam packs a bag of fruits every 8 min and Sarah packs a bag of fruits every 12 min. If they start packing three bags of fruits at the same time at 12:55, at what time will they start packing at the same time again? Equation: (12*60 (min/hour) + 55) + LCM[10,8,12] + 0 = 895 (min); 895/60 (min/hour)=14 r55; hh:mm=14:55
+Addition Question: There are three clocks in a shop. The first clock chimes every 5 minutes, the second clock chimes every 10 minutes and the last clock chimes every 15 minutes. If the last time the three clocks chime together was at 19:43, at what time will the three clocks chime together again? Equation: (19*60 (min/hour) + 43) + LCM[5,10,15] + 0 = 1213 (min); 1213/60 (min/hour)=20 r13; hh:mm=20:13
+Addition Question: The buses from stop A to stop B set out every 20 minutes. The buses from stop A to stop C set out every 15 minutes. The buses from stop A to stop D set out every 10 minutes. If three buses for stop B, C and D set out together at 2:45, at what time will another three buses for the three stops set out together again? Equation: (2*60 (min/hour) + 45) + LCM[20,15,10] + 0 = 225 (min); 225/60 (min/hour)=3 r45; hh:mm=3:45
+Addition Question: There are three bosses in a computer game. Boss A appears every 1 hour. Boss B appears every 30 minutes. Boss C appears every 40 minutes. If the three bosses appear together at 10:10, at what time will the three bosses appear together again in the game? Equation: (10*60 (min/hour) + 10) + LCM[60,30,40] + 0 = 730 (min); 730/60 (min/hour)=12 r10; hh:mm=12:10
+Addition Question: Three workers, A, B, and C are working in a bicycle factory. A finishes assembling a bike every 1 h 30 min. B finishes assembling a bike every 2 h. C finishes assembling a bike every 1 h. If they started assembling three bikes at the same time at 8:10, at what time would they start assembling at the same time again? Equation: (8*60 (min/hour) + 10) + LCM[90,120,60] + 0 = 850 (min); 850/60 (min/hour)=14 r10; hh:mm=14:10
+Addition Question: Three cleaners, A, B, and C are cleaning the windows of a building. Person A cleans a window every 8 min, person B every 12 min and person C every 14 min. If they start cleaning three windows at the same time at 14:15, at what time will start cleaning windows at the same time again? Equation: (14*60 (min/hour) + 15) + LCM[8,12,14] + 0 = 1023 (min); 1023/60 (min/hour)=17 r3; hh:mm=17:03
+Addition Question: Three workers are working to cut the trees. Worker X can cut a tree every 16 min, Worker Y every 32 min and Worker C every 24 min. If they start cutting three trees at the same time at 7:48, at what time will they start cutting trees at the same time again? Equation: (7*60 (min/hour) + 48) + LCM[16,32,24] + 0 = 564 (min); 564/60 (min/hour)=9 r24; hh:mm=9:24
+Addition Question: Three carpenters are installing some doors for a building. Carpenter A installs a door every 40 min, Carpenter B installs a door every 1 h 20 min and Carpenter C installs a door every 1 h 40 min. If they start installing three doors at the same time at 9:15, at what time will they install doors at the same again? Equation: (9*60 (min/hour) + 15) + LCM[40,80,100] + 0 = 955 (min); 955/60 (min/hour)=15 r55; hh:mm=15:55
+Subtraction Question: Nick saved $68.50. If Nick saved $25.43 more than Lee, how much did Lee save? Equation: 68.50-25.43=43.07
+Difference Question: Dave earned $53.90. Sara earned $39.33. How much more money did Dave earn than Sara? Equation: 53.90-39.33=14.57
+TVQ-Final Question: There were 18 girls and 15 boys on the track team. 7 more girls joined the team. 4 boys quit the team. How many children were on the track team then? Equation: (18+15)+7-4=36
+Sum Question: Sara bought decorations for her party. She paid $5 for balloons and $18 for tablecloths. She also spent $9 for streamers. She paid the cashier and got $8 back. How much money did Sara give to the cashier? Equation: 5+18+9+8=40
+Addition Question: Three paper bags contain a total of 24 apples. The first and second bags contain a total of 11 apples. The second and third bags contain a total of 18 apples. How many apples are in the first and third bags together? Equation: (24-11)+(24-18)=19
+Floor-Division Question: A worm has fallen into a hole that is 26 inches deep. It climbs up 8 inches and slides back 3 inches every day. How many days will it take the worm to reach the top? Equation: 26/(8-3)=5 r1
+TVQ-Final Question: A new store opened up at the mall. During the first hour, 94 people came in and 27 people left. During the second hour, 18 people came in and 9 people left. How many people were still in the store after 2 hours? Equation: 94-27+18-9=76
+Multiplication Question: A box of apples was delivered to Paul's Pies and Cakes. He put half of the apples aside for a pie he would make later. He put 25 of the remaining apples in the refrigerator. That left 6 apples to use in his muffins. How many apples were in the box at first? Equation: (6+25)*2=62
+TVQ-Final Question: Evan delivers packages in a building. He started on the first floor and went up 7 floors. He went down 3 floors and then up 16 floors. Then he was only 2 floors away from the top of the building. How many floors are in the building altogether? Equation: 1+7-3+16+2=23
+Addition Question: A worker at a medical lab is studying blood samples. The first sample contained 1,410 blood cells. The second one contained 6,908 more than the first. About how many blood cells were in the second sample? Equation: 1410+6908=8318
+Addition Question: During summer break, 564,237 kids from Lawrence County go to camp, and the other 495,718 kids stay home. About how many kids are in Lawrence County? Equation: 564237+495718=1059955
+Addition Question: There is a snail problem in Centerville. People work together to get rid 3,482 snails, but 8,278 of them remain. About how many snails were originally in Centerville? Equation: 3482+8278=11760
+Addition Question: Recently, the postal service sold stamps with famous people pictured on them. They sold 578,833 color stamps, as well as 523,776 black-and-white ones. About how many stamps did they sell? Equation: 578833+523776=1102609
+Common-Division Question: Ann has $777 and Bill has $1,111. How much does Bill need to give to Ann, so that they would have the same amount of money? Equation: (1111-777)/2=167
+Subtraction Question: Hanson left for work at six o'clock in the morning. He got stuck in traffic and didn't arrive until twenty past seven in the morning. How many hours did it take Hanson to get to work? Equation: (7*60 (min/hour) + 20 (min))-(6*60 (min/hour)) = 80 (min); 80/60 (min/hour) = 1.33 (hour)
+Difference Question: Billy was playing basketball with his friend. Billy scored 7 points and his friend scored 9 points. What's the difference between Billy's points and his friend's points? Equation: 9-7=2
+Difference Question: Haley collected 9 cans for recycling. If she put 7 cans in one bag, what's the difference between the number of recycling cans that Haley collected and put in the bag? Equation: 9-7=2
+Difference Question: Kale mowed his lawn 8 times total during the spring. If he mowed it 5 times in the summer. What's the difference between the number of times on mowing in the spring and summer? Equation: 8-5=3
+Comparison Question: Molly and Ted built pens for their dogs. Molly made a pen 12 meters by 8 meters. Ted's pen is 15 meters by 6 meters. Who will need more fencing to build the pen? Equation: 12*8=96(Molly) &gt; 15*6=90(Ted)
+Surplus Question: A box of cupcakes cost $six. If you had eight hundred twenty-one dollars and bought as many boxes as you could, how much money would you have left? Equation: 821/6=136 r5
+Floor-Division Question: A box can hold seven brownies. If a baker made three hundred forty-nine brownies, how many full boxes of brownies did he make? Equation: 349/7=49 r6
+Subtraction Question: At the carnival, nine friends bought eight hundred sixty-five tickets. If they wanted to split all the tickets so each friend got the same amount, how many more tickets would they need to buy? Equation: 865/9=96 r1; 9-1=8
+Ceil-Division Question: Tom has to sell eight hundred forty-nine chocolate bars to win a trip. If each box contains five chocolate bars, how many boxes will he need to sell to win the trip? Equation: 849/5=169 r4
+Surplus Question: Vanessa received six hundred twenty-two dollars for her birthday. Later she found some toys that cost nine dollars each. How much money would she have left if she bought as many as she could? Equation: 622/9=69 r1
+Subtraction Question: Robin wanted to drink exactly nine bottles of water each day, so she bought six hundred seventeen bottles when they were on sale. How many more bottles will she need to buy on the last day? Equation: 617/9=68 r5; 9-5=4
+Floor-Division Question: John's dad bought four hundred fourteen meters of string. If he wanted to cut the string into pieces with each piece being seven meters long, how many full sized pieces could he make? Equation: 414/7=59 r1
+Floor-Division Question: A vat of orange juice was one hundred fifty-three pints. If you wanted to pour the vat into five glasses with the same amount in each glass, how many pints would be in each glass? Equation: 153/5=30 r3
+Ceil-Division Question: A librarian had to pack five hundred ninety books into boxes. If each box can hold three books, how many boxes did she need? Equation: 590/3=196 r2
+Surplus Question: Megan had three hundred seventy-two songs on her mp3 player. If she wanted to put the songs equally into nine different playlists, how many songs would she have left over? Equation: 372/9=41 r3
+Floor-Division Question: Robin had seven hundred thirty-six photos to put into a photo album. If each page holds six photos, how many full pages will she have? Equation: 736/6=122 r4
+Subtraction Question: A container can hold four orange slices. If a company had three hundred twenty-nine orange slices to put into containers, how many more slices would they need to fill up the last container? Equation: 329/4=82 r1; 4-1=3
+Ceil-Division Question: There are five hundred fifty-four students going to a trivia competition. If each school van can hold nine students, how many vans will they need? Equation: 554/9=61 r5
+Subtraction Question: Billy had six hundred fifty pieces of candy. If he wants to split the candy into three bags with the same amount of candy in each bag, how many more pieces would he need to make sure each bag had the same amount? Equation: 650/3=216 r2; 3-2=1
+Subtraction Question: Megan had five hundred sixteen pennies. She wanted to place the pennies into nine stacks, with the same amount in each stack. How many more pennies would she need so all the stacks would be equal? Equation: 516/9=57 r3; 9-3=6
+Ceil-Division Question: A truck can hold four boxes. If you needed to move eight hundred seventy-one boxes across town, how many trips would you need to make? Equation: 871/4=217 r3
+Ceil-Division Question: A restaurant needs to buy three hundred eighty-seven new plates. If each box has five plates in it, how many boxes will they need to buy? Equation: 387/5=77 r2
+Surplus Question: A post office has five hundred eighty-two pieces of junk mail they want to split evenly between seven mail trucks. How many extra pieces of junk mail will they have if they give each truck the same amount? Equation: 582/7=83 r1
+Floor-Division Question: A cafeteria was putting milk cartons into stacks. They had seven hundred ninety-nine cartons and were putting them into stacks with six cartons in each stack. How many full stacks could they make? Equation: 799/6=133 r1
+Subtraction Question: A store owner had six employees and bought five hundred eighty-three uniforms for them. If he wanted to give each employee the same number of uniforms, how many more should he buy so he doesn't have any extra? Equation: 583/6=97 r1; 6-1=5
+Ceil-Division Question: A grocery store needed eight hundred ten cans of peas. If the peas come in boxes with four cans in each box, how many boxes would they need to order? Equation: 810/4=202 r2
+Common-Division Question: An industrial machine can make three hundred sixty-one crayons a day. If each box of crayons has four crayons in it, how many full boxes does the machine make a day? Equation: 360/4=90 r0
+Ceil-Division Question: A clown needed two hundred twenty-seven balloons for a party he was going to, but the balloons only came in packs of two. How many packs of balloons would he need to buy? Equation: 227/2=113 r1
+Subtraction Question: A botanist picked six hundred one flowers. She wanted to put them into eight bouquets with the same number of flowers in each. How many more should she pick so she doesn't have any extra? Equation: 601/8=75 r1; 8-1=7
+Floor-Division Question: Each house a carpenter builds needs six sinks. If he bought two hundred sixty-six sinks, how many houses would that cover? Equation: 266/6=44 r2
+Ceil-Division Question: A movie theater needed four hundred twenty-six popcorn buckets. If each package has eight buckets in it, how many packages will they need to buy? Equation: 426/8=53 r2
+Subtraction Question: Vanessa had saved up eight hundred fifty-five quarters and decided to spend them on sodas. If it costs seven quarters for each soda from a soda machine, how many more quarters would she need to buy the final soda? Equation: 855/7=122 r1; 7-1=6
+Subtraction Question: Victor wanted to give each of his six friends an equal amount of candy. At the store he bought three hundred seventy-nine pieces total to give to them. How many more pieces should he have bought so he didn't have any extra? Equation: 379/6=63 r1; 6-1=5
+Surplus Question: A vase can hold seven flowers. If a florist had nine hundred five flowers she wanted to put equally into vases, how many flowers would be in the last vase that isn't full? Equation: 905/7=129 r2
+Floor-Division Question: A food company has seven hundred seventy-seven kilograms of food to put into boxes. If each box gets exactly two kilograms, how many full boxes will they have? Equation: 777/2=388 r1
+Surplus Question: The roller coaster at the state fair costs six tickets per ride. If you had eight hundred sixty-eight tickets, how many tickets would you have left if you rode it as many times as you could? Equation: 868/6=144 r4
+Ceil-Division Question: A flash drive could hold nine gigs of data. If you needed to store four hundred sixty-two gigs, how many flash drive would you need? Equation: 462/9=51 r3
+Floor-Division Question: A new video game console needs five computer chips. If a machine can create four hundred sixty-seven computer chips a day, how many video game consoles can be created in a day? Equation: 467/5=93 r2
+Floor-Division Question: An industrial machine can make three hundred twenty-one crayons a day. If each box of crayons has seven crayons in it, how many full boxes does the machine make a day? Equation: 321/7=45 r6
+Floor-Division Question: A box of computer paper has two hundred twenty-one sheets left in it. If each printer in a computer lab needed seven sheets, how many printers would the box fill up? Equation: 221/7=31 r4
+Ceil-Division Question: A builder needed to buy one hundred fifty-four boards for his latest project. If the boards he needs come in packs of three, how many packages will he need to buy? Equation: 154/3=51 r1
+Ceil-Division Question: Billy was trying to beat his old score of seven hundred twenty-five points in a video game. If he scores exactly two points each round, how many rounds would he need to play to beat his old score? Equation: 725/2=362 r1
+Surplus Question: A store owner had two employees and bought nine hundred twenty-seven uniforms for them. If he wanted to give each employee the same number of uniforms, how many more should he buy so he doesn't have any extra? Equation: 927/2=463 r1
+Ceil-Division Question: George is trying to earn one hundred nineteen dollars for some new toys. If he charges three dollars to mow a lawn, how many lawns will he need to mow to earn the money? Equation: 119/3=39 r2
+Floor-Division Question: It takes eight grams of plastic to make a ruler. If a company had eight hundred twenty-eight grams of plastic, how many entire rulers could they make? Equation: 828/8=103 r4
+Subtraction Question: A movie store had nine hundred ninety-nine movies they were putting on five shelves. If the owner wanted to make sure each shelf had the same number of movies, how many more movies would he need? Equation: 999/5=199 r4; 5-4=1
+Subtraction Question: A school had nine hundred thirty-five students sign up for the trivia teams. If they wanted to have six team, with the same number of students on each team, how many more students would need to sign up? Equation: 935/6=155 r5; 6-5=1
+Ceil-Division Question: There are two hundred eighty-seven people attending a luncheon. If a table can hold nine people, how many tables do they need? Equation: 287/9=31 r8
+Common-Division Question: At the carnival, 6 friends bought 234 tickets total. If they each bought the same amount, how many tickets did each person buy? Equation: 234/6=39
+Common-Division Question: Sarah is making bead necklaces. She has 945 beads and is making 7 necklaces with each necklace using the same number of beads. How many beads will each necklace use? Equation: 945/7=135
+Common-Division Question: George had 648 pieces of candy. If he split the candy into 8 bags with the same amount of candy in each bag, how many pieces would each bag have in it? Equation: 648/8=81
+Common-Division Question: A pallet of boxes weighed 267 kilograms. If there were 3 boxes on the pallet and each box weighed the same amount, how much did each weigh? Equation: 267/3=89
+Common-Division Question: Edward had 763 baseball cards in 7 binders. If each binder has the same number of cards, how many cards are in each binder? Equation: 763/7=109
+Common-Division Question: There are 234 people attending a luncheon. If a table can hold 9 people, how many tables do they need? Equation: 234/9=26
+Common-Division Question: Kaleb has to sell 710 chocolate bars to get a prize. If each box contains 5 chocolate bars, how many boxes does he need to sell? Equation: 710/5=142
+Common-Division Question: An industrial machine made 196 shirts. If it made one minute to make 7 shirts, how many minutes was it working? Equation: 196/7=28
+Common-Division Question: Debby bought 355 bottles of water when they were on sale. If she drank 5 bottles a day, how many days would they last her? Equation: 355/5=71
+Common-Division Question: Debby had 873 quarters. If it costs 3 quarters for each coke from a coke machine, how many could she buy? Equation: 873/3=291
+Common-Division Question: There are 270 seats in a movie theater. If the movie theater has 9 sections with the same number of seats in each section, how many seats are in each section? Equation: 270/9=30
+Common-Division Question: Zoe's school sold 620 dollars in raffle tickets. If each ticket cost 4 dollars, how many tickets did they sell? Equation: 620/4=155
+Common-Division Question: Edward's dad bought 459 centimeters of string. If he cut the string into 9 equal pieces, what would be the length of each piece? Equation: 459/9=51
+Common-Division Question: Frank was reading through his favorite book. The book had 672 pages and it took Frank 2 days to finish the book. How many pages did he read per day? Equation: 672/2=336
+Common-Division Question: There are 396 students going to a trivia competition. If each school van can hold 9 students, how many vans will they need? Equation: 396/9=44
+Common-Division Question: A school ordered 195 new pencils for the state tests. If they gave each student 3 pencils, how many students are in the school? Equation: 195/3=65
+Common-Division Question: An architect was building a hotel downtown. He bought 147 lamps to put in the rooms. If each room gets 7 lamps, how many rooms does the hotel have? Equation: 147/7=21
+Common-Division Question: Luke was played 5 rounds of a trivia game and scored 300 points. If he gained the same number of points each round, how many points did he score per round? Equation: 300/5=60
+Common-Division Question: Amy had 180 video games. If she placed the games into 9 different stacks, how many games would be in each stack? Equation: 180/9=20
+Common-Division Question: There are 336 students in a school. If the school has 7 grades and each grade had the same number of students, how many students were in each grade? Equation: 336/7=48
+Common-Division Question: The ring toss game at the carnival made 420 dollars in 3 days. If they made the same amount of money each day, how much did they make per day? Equation: 420/3=140
+Common-Division Question: An ice machine had 294 ice cubes in it. If you were filling up 7 ice chests and each chest got the same number of cubes, how many ice cubes would each chest get? Equation: 294/7=42
+Common-Division Question: Amy uploaded 180 pics to Facebook. If she put the pics into 9 albums with the same number of photos in each album, how many photos were in each album? Equation: 180/9=20
+Common-Division Question: A farmer had 225 seeds to plant. He planted the same number of seeds each day and it took him 5 days to plant them all. How many seeds did he plant per day? Equation: 225/5=45
+Common-Division Question: A mailman has to give out 192 pieces of junk mail. If he goes to 4 blocks, how many pieces of junk mail should he give each block? Equation: 192/4=48
+Ceil-Division Question: A company was buying new uniforms for its employees. They bought 121 uniforms total for their 32 stores. About how many uniforms should each store get? Equation: 121/32=3 r25
+Floor-Division Question: Carol is making bead necklaces for her friends. She has 159 beads and each necklace takes 37 beads. About how many necklaces can Carol make? Equation: 159/37=4 r11
+Ceil-Division Question: While playing a trivia game Adam scored 283 points total. If he scored 71 points each round, about how many rounds did he play? Equation: 283/71=3 r70
+Ceil-Division Question: For Halloween Adam received 201 pieces of candy. If he put them into piles with 43 in each pile, approximately how many piles could he make? Equation: 201/43=4 r29
+Ceil-Division Question: An electronics store had 163 video games. If they put them on shelves with 84 on each shelf, about how many shelves would they need? Equation: 163/84=1 r79
+Floor-Division Question: Cody had 36 boxes. Together the boxes weighed 243 kilograms. About how much did each box weigh? Equation: 243/36=6 r27
+Ceil-Division Question: There were 31 groups of people at the bowling alley. If the total number of people was 177, about how many people were in each group? Equation: 177/31=5 r22
+Floor-Division Question: A class collected 122 cans for recycling. If they could put 57 cans in each bag, approximately how many bags would they need? Equation: 122/57=2 r8
+Geometry Question: Paige had a sheet of paper that was 9 inches long and 10 inches wide. What is the area of the paper? Equation: 9*10=90
+Geometry Question: A lawn had an area of 20 square feet. If it was 5 feet width, how long was it? Equation: 20/5=4
+Geometry Question: A book had a length of 2 inches and a width of 3 inches. What is the area of the book? Equation: 2*3=6
+Geometry Question: Rachel bought some wrapping paper for Christmas that was 4 feet long and with an area of 20 square feet. What is the width of the wrapping paper? Equation: 20/4=5
+Geometry Question: A bathroom had a length of 4 feet and a total area of 8 square feet. What is the width of the bathroom? Equation: 8/4=2
+Geometry Question: Adam was painting a wall in his room. The wall was 4 feet wide and 4 feet tall. What is the area of the wall he has to paint? Equation: 4*4=16
+Geometry Question: A rectangle flower bed had a total area of 35 square yards. If it was 5 yards wide, how long was it? Equation: 35/5=7
+Geometry Question: Faye was cutting out some fabric for a friend. She cut a piece that was 3 centimeters wide and had an area of 24 square centimeters. How long was the piece? Equation: 24/3=8
+Geometry Question: A piece of plywood was cut so its length was 6 feet by 5 feet. What is the perimeter of the wood? Equation: (6+5)*2=22
+Geometry Question: Adam was painting a picture frame. The frame was 6 inches wide and 9 inches tall. What is the perimeter of the picture frame? Equation: (6+9)*2=30
+Geometry Question: A movie poster was 4 inches wide and 7 inches tall. What is the area of the poster? Equation: 4*7=28
+Geometry Question: Adam bought a new flat screen TV with an area of 21 square feets. The screen is 3 feet wide. How tall is it? Equation: 21/3=7
+Geometry Question: The woods behind Wendy's house were 8 miles wide and have an area of 24 square miles. What is the length of the woods? Equation: 24/8=3
+Geometry Question: At the playground, the new sandbox was 4 meters wide and 2 meters long. What is the area of the sandbox? Equation: 4*2=8
+Geometry Question: A restaurant added a new outdoor section that was 35 square feet. It was 7 feet wide. How long is their new section? Equation: 35/7=5
+Geometry Question: Billy was painting a wall in his room. The total area was 8 square feet. If the wall was 2 feet wide, how tall is it? Equation: 8/2=4
+Geometry Question: An envelope from the post office is 4 inches wide and 4 inches long. What is the area of the envelope? Equation: 4*4=16
+Geometry Question: The woods behind Jerry's house were 6 miles wide and 3 miles long. What is the area of the woods? Equation: 6*3=18
+Geometry Question: A restaurant added a new outdoor section that was 4 feet wide and 6 feet long. What is the area of their new outdoor section? Equation: 4*6=24
+Geometry Question: An island in the Pacific Ocean was 5 miles wide. It had a total area of 50 square miles. How long is the island? Equation: 50/5=10
+Geometry Question: A rectangle had a length of 2 inches and a width of 4 inches. What is the area of the rectangle? Equation: 2*4=8
+Geometry Question: An island in the Indian Ocean was 4 miles wide and 7 miles long. What is the perimeter of the island? Equation: (4+7)*2=22
+Geometry Question: A piece of sheetrock was cut so its length was 6 feet by 5 feet. What is the area of the sheetrock? Equation: 6*5=30
+Geometry Question: A video game map had a total area of 10 square meters. If the map was 5 meters long, how wide is it? Equation: 10/5=2
+Geometry Question: An island in the Atlantic Ocean was 2 miles wide and 6 miles long. What is the area of the island? Equation: 2*6=12
+Geometry Question: A window had a length of 6 feet and a width of 10 feet. What is the area of the window? Equation: 6*10=60
+Geometry Question: An envelope from the post office is 6 inches wide with a total area of 36 square inches. What is the height of the envelope? Equation: 36/6=6
+Geometry Question: A piece of plywood had a total area of 24 square feet, with a width of 6 feet. What is the length of the wood? Equation: 24/6=4
+Geometry Question: A bakery cookie sheet was 10 inches wide and 2 inches long. What is the perimeter of their cookie sheet? Equation: (10+2)*2=24
+Geometry Question: A video game map was 10 meters wide and 2 meters long, what is the area of the map? Equation: 10*2=20
+Geometry Question: Dave bought a new flat screen TV. The screen was 2 feet wide and 4 feet tall. What is the area of the screen? Equation: 2*4=8
+Geometry Question: A rectangle swimming pool was 3 meters wide with a surface area of 30 square meters. What is the length of the pool? Equation: 30/3=10
+Geometry Question: A farm was 7 miles wide and 8 miles long. What is the area of the farm? Equation: 7*8=56
+Geometry Question: A book had a length of 5 inches and a total area of 50 square inches. How wide is the book? Equation: 50/5=10
+Common-Division Question: There are 15 shapes. How many groups of 3 can you make with them? Equation: 15/3=5 r0
+Surplus Question: There are 10 shapes. How many will you have left over after making the groups of 5? Equation: 10/5=2 r0
+Addition Question: At the school Halloween party 2 girls and 9 boys dressed as ghosts. How many people total dressed as a ghost? Equation: 2+9=11
+Addition Question: Amy bought 7 pencils at the school store, but she already had 3 pencils. How many pencils does she have totaled? Equation: 7+3=10
+Multiplication Question: Vanessa had to complete 3 pages of homework. Each page had 4 problems on it. How many problems did she have to complete total? Equation: 3*4=12
+Common-Division Question: Mike has 64 action figures he wants to display. If each shelf in his room can hold 8 figures, how many shelves does he need? Equation: 64/8=8
+Multiplication Question: A group of 8 friends were dressing as pirates for Halloween. If each costume cost 5 dollars, how much did they spend? Equation: 8*5=40
+Common-Division Question: An industrial machine made 12 shirts. It can make 2 shirts a minute. How many minutes was the machine working? Equation: 12/2=6
+Multiplication Question: Olivia's dad took her and some friends out to eat for her birthday. If each meal costs 7 dollars and her dad paid for 3 meals, how much did he spend? Equation: 7*3=21
+Common-Division Question: While playing basketball Team A scored 18 points. If each person scored 2 points, how many people were playing? Equation: 18/2=9
+Subtraction Question: Katie had 9 math problems for homework. If she finished 5 of them on the bus ride home, how many more did she have to do? Equation: 9-5=4
+Subtraction Question: Frank bought his family 14 pieces of chicken for dinner. If they only ate 7, how many pieces does he have left? Equation: 14-7=7
+Subtraction Question: There are 13 different books in the 'Crazy Silly School' series. If you read 9 of the books, how many more do you still have to read? Equation: 13-9=4
+Multiplication Question: Kale was drawing on scrap paper. He could fit 5 drawings on each page. If he has 6 pages, how many drawings can he make? Equation: 5*6=30
+Multiplication Question: Rachel bought 8 music albums online. If each album had 2 songs, how many songs did she buy total? Equation: 8*2=16
+Subtraction Question: Olivia had 11 quarters. If she spent 4 of them buying a soda, how many coins did she have left? Equation: 11-4=7
+Common-Division Question: Jerry's freezer had 30 ice cubes in it. If he had to get ice for 6 cups, how many pieces should he put in each cup to make them have the same amount? Equation: 30/6=5
+Subtraction Question: For a potluck lunch Debby brought 10 bottles of soda. If everyone only drank 8 of the sodas, how many did she have to take back home? Equation: 10-8=2
+Addition Question: Emily owned 6 songs by her favorite artists. Later on she bought 7 more songs. How many songs did she have totaled? Equation: 6+7=13
+Multiplication Question: For Bianca's birthday 5 of her friends gave her 6 dollars. How much money did she get for her birthday? Equation: 5*6=30
+Common-Division Question: Cody made 12 dollars mowing lawns over the summer. If he charged 4 bucks for each lawn, how many lawns did he mow? Equation: 12/4=3
+Addition Question: For Paige's birthday she received 2 dollars from her friends and 3 dollars from her relatives. How much money did she get for her birthday? Equation: 2+3=5
+Subtraction Question: Jerry had to sell boxes of candy. He started out with 10 boxes and then sold 5. How many boxes did he have left? Equation: 10-5=5
+Subtraction Question: Janet's dad took the family out to eat for her birthday. There were 10 people total. There were 8 kids and everyone else was an adult. How many adults were there? Equation: 10-8=2
+Common-Division Question: Lana had 72 extra nickels. If she put them into stacks with 8 in each stack, how many stacks could she make? Equation: 72/8=9
+Subtraction Question: Haley bought 11 new shirts for school. If she returned 6 of them, how many did she end up with? Equation: 11-6=5
+Addition Question: Cody was helping his mom wash clothes. They washed 4 short sleeve shirts and 5 long sleeve shirts. How many shirts did they wash total? Equation: 4+5=9
+Addition Question: Amy's dad was taking everyone out to eat for her birthday. They spent 5 dollars on the adults and 5 dollars on the kids. How much did it cost for everyone? Equation: 5+5=10
+Multiplication Question: Billy bought 7 boxes of candy with each box having 3 pieces inside of it. How many pieces of candy did he have totaled? Equation: 7*3=21
+Addition Question: A mailman had to give 6 pieces of junk mail and 5 magazines to a house. How many pieces of mail did he deliver total? Equation: 6+5=11
+Multiplication Question: The roller coaster at the state fair costs 6 tickets per ride. If 8 friends were going to ride the roller coaster, how many tickets would they need? Equation: 6*8=48
+Common-Division Question: Paige was helping her mom plant flowers and together they planted 54 seeds. If they put 6 seeds in each flower bed, how many flower beds did they have? Equation: 54/6=9
+Multiplication Question: Olivia was buying DVDs of her favorite TV series. Each season had 8 DVDs. If she bought 5 seasons, how many DVDs did she buy total? Equation: 8*5=40
+Multiplication Question: Nancy was buying soap for her bathroom. She bought 6 packs with each pack having 5 bars. How many bars of soap did she buy? Equation: 6*5=30
+Multiplication Question: A group of 8 friends were playing a video game. In the game, each player started with 8 lives. How many lives did they have totaled? Equation: 8*8=64
+Addition Question: A group of 4 friends were playing video games. Later 3 more friends came over. How many people were there total? Equation: 4+3=7
+Subtraction Question: Oliver won 11 tickets playing games at the arcade. If he spent 5 tickets buying a water gun, how many tickets did he still have? Equation: 11-5=6
+Addition Question: At the fair Dave rode 4 rides the first day he went and 3 rides the second day. How many times did he ride total? Equation: 4+3=7
+Multiplication Question: Janet was practicing for a marathon. She practiced for 9 days, running 8 miles each day. How many miles did Janet run altogether? Equation: 9*8=72
+Subtraction Question: Edward was playing basketball with his friend. Together they scored 13 points. If Edward scored 7 of the points. How many points did his friend score? Equation: 13-7=6
+Multiplication Question: Tiffany was buying hand towels for her house. She bought 9 packs with each pack having 3 towels in it. How many towels did she buy? Equation: 9*3=27
+Addition Question: Debby was placing her spare change into stacks. One stack had 4 coins and the other had 8. How many coins did she have total? Equation: 4+8=12
+Subtraction Question: Faye had 12 apps on her phone. To free up some space she deleted 8 of the apps. How many apps did she have left? Equation: 12-8=4
+Addition Question: Bianca was practicing for a marathon. To prepare she ran 8 miles the first day and 4 miles the next day. How many miles did Bianca run altogether? Equation: 8+4=12
+Addition Question: Jerry had 8 action figures on a shelf in his room. Later he added 2 more figures to the shelf. How many action figures were on his shelf total? Equation: 8+2=10
+Addition Question: Sarah bought 8 new shirts for school. If she already had 9 shirts, how many did she own total? Equation: 8+9=17
+Multiplication Question: Carol was helping her mom plant vegetables in the garden. Together they planted 6 rows of potatoes with 9 seeds in each row. How many potatoes did they plant total? Equation: 6*9=54
+Addition Question: Ned was buying books about astronomy. He bought 8 books about the planets and 4 about the space program. How many books did he buy total? Equation: 8+4=12
+Addition Question: A delivery driver had to make 3 stops on his route. After he finished those deliveries he made 4 more stops. How many stops did he make total? Equation: 3+4=7
+Subtraction Question: Emily's mom was buying extra school supplies for Emily and her sister. She bought 13 packs of glue sticks total. If she gave Emily 6 packs, how many did her sister get? Equation: 13-6=7
+Common-Division Question: Roger was reading through his favorite book series. He had 30 books to read total. If he read 6 books each week, how many weeks would it take him to finish the series? Equation: 30/6=5
+Addition Question: Rachel had to complete 9 pages of math homework and 2 pages of reading homework. How many pages did she have to complete total? Equation: 9+2=11
+Multiplication Question: An industrial machine can make 6 shirts every minute. How many shirts would it have made in 6 minutes? Equation: 6*6=36
+Subtraction Question: Haley collected 9 cans for recycling. If she put 7 cans in one bag, how many cans did she have left? Equation: 9-7=2
+Addition Question: Amy was buying different soups. She bought 6 cans of chicken soup and 3 cans of tomato soup. How many soups did she buy? Equation: 6+3=9
+Common-Division Question: A vase can hold 5 flowers. If you had 25 flowers, how many vases would you need? Equation: 25/5=5
+Addition Question: Adam was reading through his favorite book series. The first week he read 5 different books. The next week he read 8 books. How many books did he read total? Equation: 5+8=13
+Multiplication Question: Paige's dresser drawers could hold 2 pieces of clothing each. If she had 4 drawers, how many pieces of clothing could it hold? Equation: 2*4=8
+Multiplication Question: An architect was building a hotel downtown. He built it 3 stories tall with 8 rooms on each story. How many rooms does the hotel have totaled? Equation: 3*8=24
+Common-Division Question: Isabel received 14 dollars for her birthday. Later she found some toys that cost 2 dollars each. How many of the toys could she buy? Equation: 14/2=7
+Common-Division Question: There are 30 students in a class. If the teacher put them into groups with 5 students in each group, how many groups would she have? Equation: 30/5=6
+Addition Question: Haley's mom was buying extra school supplies for Haley and her sister. If she bought 2 reams of paper for Haley and 3 reams for her sister, how many did she buy total? Equation: 2+3=5
+Common-Division Question: There are 40 students in the school band. If the band instructor put the students into rows with 5 students in each row, how many rows could he make? Equation: 40/5=8
+Subtraction Question: Roger mowed his lawn 15 times total during the spring and summer. If he mowed it 9 times in the summer. How many times did he mow in the spring? Equation: 15-9=6
+Subtraction Question: Robin bought 11 sodas for her and her friends. If they only drank 3 of them, how many extras did she have? Equation: 11-3=8
+Addition Question: An architect was building his two story house. On the first floor the house had 6 bedrooms and the second floor had 4 bedrooms. How many bedrooms does the house have totaled? Equation: 6+4=10
+Multiplication Question: Carol was sending out birthday invitations to her friends. If each package of invitations she bought had 9 invitations in it and she bought 5 packs, how many friends can she invite? Equation: 9*5=45
+Addition Question: A designer was buying furniture for her new house. She bought 3 chairs for the living room and 6 for her kitchen. How many chairs did she buy total? Equation: 3+6=9
+Common-Division Question: A pet store had 4 snakes. They had the snakes in cages with 2 snakes in each cage. How many cages did the pet store have? Equation: 4/2=2
+Multiplication Question: A contractor was buying wall outlets for a new house he was building. Each room needed 6 outlets. If the house has 7 rooms, how many outlets does he need total? Equation: 6*7=42
+Subtraction Question: John threw a Halloween party where 13 people showed up. If only 6 dressed up, how many people didn't wear costumes? Equation: 13-6=7
+Subtraction Question: Oliver was yard sale shopping. He ended up buying 11 video games, but only 6 of them worked. How many bad games did he buy? Equation: 11-6=5
+Common-Division Question: If Helen sold 12 boxes of Trefoils, how many cases of 12 boxes does Helen pickup from the cookie mom? Equation: 12/12=1
+Surplus Question: Girl Scout cookies come packed 12 boxes to a case. Scout Deborah sold 31 boxes of Lemon Chalet Cremes. How many boxes will not be packed to a case? Equation: 31/12=2 r7
+Ceil-Division Question: Nancy sold 45 boxes of Tagalongs. How many cases of 12 boxes, plus extra boxes does Nancy need? Equation: 45/12=3 r9
+Common-Division Question: Anne had 15 Sweettarts. If Anne gave equal numbers of Sweettarts to her 3 friends, how many Sweettarts did each person eat? Equation: 15/3=5
+Floor-Division Question: Sean had 45 Starbursts. If Sean gave equal numbers of Starbursts to his 18 friends and then he ate what was left, how many Starbursts did each person eat? Equation: 45/18=2 r9
+Common-Division Question: Matthew had 27 crackers. If Matthew gave equal numbers of crackers to his 9 friends, how many crackers did each person eat? Equation: 27/9=3
+Ceil-Division Question: Mary sold 9 boxes of Do-Si-Dos. How many cases of 6 boxes, plus extra boxes does Mary need to deliver? Equation: 9/6=1 r3
+Floor-Division Question: Samuel had 14 Skittles. If Samuel gave equal numbers of Skittles to his 4 friends and then he ate what was left, how many Skittles did each person eat? Equation: 14/4=3 r2
+Floor-Division Question: If Lillian split 20 Skittles between 8 people in her class and kept the left overs, how many Skittles did each classmate get? Equation: 20/8=2 r4
+Surplus Question: Lemon heads come in packages of 3. Patricia ate 15 Lemon Heads. How many Lemon Heads does she have left? Equation: 15/3=5 r0
+Surplus Question: Crackers come in packages of 18. Betty ate 45 crackers. How many crackers does she have left? Equation: 45/18=2 r9
+Surplus Question: Skittles come in packages of 6. Juan ate 24 Skittles. How many Skittles does he have left? Equation: 24/6=4 r0
+Floor-Division Question: Virginia had 13 Sweettarts. If Virginia gave equal numbers of Sweettarts to her 4 friends and then she ate what was left, how many Sweettarts did each person eat? Equation: 13/4=3 r1
+Surplus Question: Atomic fireballs come in packages of 9. Barbara ate 59 Atomic Fireballs. How many Atomic Fireballs does she have left? Equation: 59/9=6 r5
+Common-Division Question: There are 560 bottle caps in Terry's bottle cap collection. If the bottle caps are organized into 80 groups, how big is each group? Equation: 560/80=7
+Common-Division Question: Philip has 60 bottle caps stored in boxes. If the are 60 boxes, how many bottle caps must go in each box? Equation: 60/60=1
+Common-Division Question: Lawrence has 5504 marbles. If he shares them among 64 friends, how many marbles does each friend get? Equation: 5504/64=86
+Common-Division Question: Peter wants to split a collection of pencils into groups of 11. Peter has 154 pencils. How many groups will be created? Equation: 154/11=14
+Common-Division Question: Albert is inviting 34 friends to a party. He has 1802 cookies. How many cookies will each friend get? Equation: 1802/34=53
+Common-Division Question: There are 820 blocks in Bridget's block collection. If the blocks are organized into 82 groups, how big is each group? Equation: 820/82=10
+Common-Division Question: There are 407 bananas in Philip's banana collection. If the bananas are organized into 11 groups, how big is each group? Equation: 407/11=37
+Common-Division Question: Dennis has 4028 pencils stored in boxes. If the are 53 boxes, how many pencils must go in each box? Equation: 4028/53=76
+Common-Division Question: Denise has 210 crayons and 3 blocks. If she shares the crayons among 30 friends, how many crayons does each friend get? Equation: 210/30=7
+Common-Division Question: The school is planning a field trip. The school has 11 classrooms. There are 100 students in the school and 20 seats on each school bus. How many buses are needed to take the trip? Equation: 100/20=5
+Common-Division Question: Virginia has 40 bananas and 4 marbles. If she shares the bananas among 40 friends, how many bananas does each friend get? Equation: 40/40=1
+Common-Division Question: There are 5929 Skittles in Steven's Skittle collection. Steven also has 11 erasers. If the Skittles are organized into 77 groups, how big is each group? Equation: 5929/77=77
+Common-Division Question: There are 3300 bananas in Janice's banana collection. Janice also has 5 crayons. If the bananas are organized into 75 groups, how big is each group? Equation: 3300/75=44
+Common-Division Question: Janice has 316 bottle caps that must be put away in boxes. Douglas comes to help and brings 17 cookies to share with Janice. If there are 79 boxes, how many bottle caps must go in each box? Equation: 316/79=4
+Common-Division Question: Chris is inviting 82 friends to a party. He has 1804 cookies and 10 peices of candy. How many cookies will each friend get? Equation: 1804/82=22
+Common-Division Question: Keith has 5530 marbles and 3 pencils. If he shares the marbles among 79 friends, how many marbles does each friend get? Equation: 5530/79=70
+Common-Division Question: There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students, how many does each student get? Equation: 1720/43=40
