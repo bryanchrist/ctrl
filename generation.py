@@ -127,8 +127,8 @@ def loss(labels, logits):
 # the optimizer is not used since this code only supports inference
 # however, to compile the model, we still define it
 optimizer = tf.keras.optimizers.Adam(
-    tf.contrib.estimator.clip_gradients_by_norm(
-        tf.train.AdagradOptimizer(learning_rate=1e-2), 0.25)
+    tf.clip_by_norm(
+        tf.train.AdagradOptimizer(learning_rate=1e-2), 0.25, clip_norm)
     )        
 
 # compile the model with the optimizer and loss            
@@ -140,21 +140,21 @@ print(model.summary())
 # this is where the saved model is presented to the code
 # the model directory should have the model checkpoint and
 # a checkpoint file
-run_config = tf.contrib.tpu.RunConfig(
-        model_dir=args.model_dir)
+run_config = tf.estimator.RunConfig(model_dir=args.model_dir)
+
 
 
 # this converts the Keras model to a TensorFlow estimator
 # this step is critical
 # remember to patch the TF 1.14 file before running the code, else you're going to see errors here
-estimator_model = tf.keras.estimator.model_to_estimator(keras_model=model, config=run_config)
+estimator_model = tf.estimator.Estimator(model_fn=model, config=run_config)
 
 # we now create a serving function from this estimator
 # this enables us to load the model once and easily query it multiple times
 def serving_input_fn():
     inputs = {'input_1': tf.placeholder(tf.int32, [1,seq_length])}
     return tf.estimator.export.ServingInputReceiver(inputs, inputs)
-predict_fn = tf.contrib.predictor.from_estimator(estimator_model, serving_input_fn)
+predict_fn = tf.saved_model.load(estimator_model.export_saved_model(args.model_dir))
 
 # almost there, we now take the user prompt and tokenize with BPE
 # load BPE codes
@@ -166,7 +166,7 @@ penalty = args.penalty
 topk = args.topk
 
 while True:
-    prompt = raw_input('ENTER PROMPT: ') if not use_py3 else input('ENTER PROMPT: ')
+    prompt = input('ENTER PROMPT: ')
     prompt = prompt.split('\\n') # split on newlines if provided
 
     # tokenize provided prompt
