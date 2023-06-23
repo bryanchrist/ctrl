@@ -1,27 +1,23 @@
-31c31
-< 
----
-> import tensorflow as tf 
-242,246c242,246
+240,244c240,244
 < def _create_keras_model_fn(keras_model,
-<                          custom_objects=None,
-<                          save_object_ckpt=False,
-<                          metric_names_map=None,
-<                          export_outputs=None):
+<                            custom_objects=None,
+<                            save_object_ckpt=False,
+<                            metric_names_map=None,
+<                            export_outputs=None):
 ---
 > def _create_keras_model_fn(keras_model, params=None, custom_objects=None):
 > 
 > 
 > 
 > 
-596,597c596,597
-<   if not (keras_model._is_graph_network or
-<              isinstance(keras_model, tf.keras.models.Sequential)):
+594,595c594,595
+< if not (keras_model._is_graph_network or
+<         isinstance(keras_model, tf.keras.models.Sequential)):
 ---
 >   if False:
 > 
-645,646c645,646
-<   estimator = estimator_cls(
+643,644c643,644
+< estimator = estimator_cls(
 <     keras_model_fn, config=config, warm_start_from=warm_start_path)
 ---
 >   estimator = tf.contrib.tpu.TPUEstimator(keras_model_fn, use_tpu=False, train_batch_size=4, eval_batch_size=4,config=config,
