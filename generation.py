@@ -39,7 +39,7 @@ parser.add_argument('--topn', type=int, default=0,
                                         help='print top-n candidates during generations; defaults to 0 which is no printing')
 
 args = parser.parse_args()
-tf.random.set_random_seed(args.seed)
+tf.random.set_seed(args.seed)
 os.environ['PYTHONHASHSEED'] = str(args.seed)
 np.random.seed(args.seed)
 
