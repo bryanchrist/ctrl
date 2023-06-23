@@ -3,7 +3,6 @@ from __future__ import print_function
 import tensorflow as tf
 import os
 import numpy as np
-tf.enable_eager_execution()
 import transformer
 import argparse
 import pdb
