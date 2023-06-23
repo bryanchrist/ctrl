@@ -14,11 +14,11 @@
 < if not (keras_model._is_graph_network or
 <         isinstance(keras_model, tf.keras.models.Sequential)):
 ---
->   if False:
+> if False:
 > 
 639,640c639,640
 < estimator = estimator_cls(
 <     keras_model_fn, config=config, warm_start_from=warm_start_path)
 ---
->   estimator = tf.contrib.tpu.TPUEstimator(keras_model_fn, use_tpu=False, train_batch_size=4, eval_batch_size=4,config=config,
+> estimator = tf.contrib.tpu.TPUEstimator(keras_model_fn, use_tpu=False, train_batch_size=4, eval_batch_size=4,config=config,
 >                                           warm_start_from=warm_start_path)
