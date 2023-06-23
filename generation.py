@@ -126,7 +126,7 @@ def loss(labels, logits):
 
 # the optimizer is not used since this code only supports inference
 # however, to compile the model, we still define it
-optimizer = tf.contrib.tpu.CrossShardOptimizer(
+optimizer = tf.keras.optimizers.Adam(
     tf.contrib.estimator.clip_gradients_by_norm(
         tf.train.AdagradOptimizer(learning_rate=1e-2), 0.25)
     )        
