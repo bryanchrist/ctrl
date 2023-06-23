@@ -10,13 +10,13 @@
 > 
 > 
 > 
-594,595c594,595
+590,591c590,591
 < if not (keras_model._is_graph_network or
 <         isinstance(keras_model, tf.keras.models.Sequential)):
 ---
 >   if False:
 > 
-643,644c643,644
+639,640c639,640
 < estimator = estimator_cls(
 <     keras_model_fn, config=config, warm_start_from=warm_start_path)
 ---
