@@ -5,7 +5,6 @@ sys.path.append('../')
 import tensorflow as tf
 import os
 import numpy as np
-tf.enable_eager_execution()
 import transformer
 import argparse
 import pdb
@@ -132,7 +131,7 @@ def loss(labels, logits):
 
 # the optimizer is not used since this code only supports inference
 # however, to compile the model, we still define it
-optimizer = tf.contrib.estimator.clip_gradients_by_norm(
+optimizer = tf.clip_by_global_norm(
         tf.train.AdagradOptimizer(learning_rate=1e-2), 0.25)
 
 
