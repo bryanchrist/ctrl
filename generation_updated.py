@@ -200,6 +200,7 @@ estimator_model = tf.estimator.Estimator(model_fn=model_fn, config=run_config)
 # we now create a serving function from this estimator
 # this enables us to load the model once and easily query it multiple times
 # Define the serving input function
+tf.compat.v1.disable_eager_execution()
 def serving_input_receiver_fn():
     inputs = {'input_1': tf.placeholder(tf.int32, [1, seq_length])}
     return tf.estimator.export.ServingInputReceiver(inputs, inputs)
