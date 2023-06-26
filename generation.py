@@ -128,7 +128,7 @@ def loss(labels, logits):
 # however, to compile the model, we still define it
 optimizer = tf.keras.optimizers.Adam(
     tf.clip_by_norm(
-        tf.optimizers.Adagrad(learning_rate=1e-2), 0.25, clip_norm)
+        tf.optimizers.Adagrad(learning_rate=1e-2), 0.25)
     )        
 
 # compile the model with the optimizer and loss            
