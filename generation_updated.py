@@ -205,7 +205,9 @@ def serving_input_receiver_fn():
     return tf.estimator.export.ServingInputReceiver(inputs, inputs)
 
 # Load the model using export_saved_model with serving_input_receiver_fn
-predict_fn = tf.saved_model.load(estimator_model.export_saved_model(args.model_dir, serving_input_receiver_fn))
+estimator_model.export_saved_model(args.model_dir, serving_input_receiver_fn)
+predict_fn = tf.saved_model.load(args.model_dir)
+
 
 # almost there, we now take the user prompt and tokenize with BPE
 # load BPE codes
