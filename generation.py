@@ -126,13 +126,14 @@ def loss(labels, logits):
 
 # the optimizer is not used since this code only supports inference
 # however, to compile the model, we still define it
+import tensorflow.compat.v1 as tf
 optimizer = tf.keras.optimizers.Adam(learning_rate=1e-2)
 
 # Define placeholder for batch size
 batch_size = tf.shape(tokens)[0]
 
 # Placeholder for labels
-labels = tf.placeholder(shape=(batch_size, seq_length), dtype=tf.int32)  # Replace `batch_size` with the actual batch size
+labels = tf.compat.v1.placeholder(shape=(batch_size, seq_length), dtype=tf.int32)  # Replace `batch_size` with the actual batch size
 
 # Calculate loss
 loss_value = loss(labels, logits)
@@ -144,6 +145,7 @@ with tf.GradientTape() as tape:
 grads = tape.gradient(loss_value, model.trainable_variables)
 clipped_grads, _ = tf.clip_by_global_norm(grads, 0.25)
 train_op = optimizer.apply_gradients(zip(clipped_grads, model.trainable_variables))
+
 
 
 # compile the model with the optimizer and loss            
