@@ -199,10 +199,14 @@ estimator_model = tf.estimator.Estimator(model_fn=model_fn, config=run_config)
 
 # we now create a serving function from this estimator
 # this enables us to load the model once and easily query it multiple times
-def serving_input_fn():
-    inputs = {'input_1': tf.placeholder(tf.int32, [1,seq_length])}
+# Define the serving input function
+def serving_input_receiver_fn():
+    inputs = {'input_1': tf.placeholder(tf.int32, [1, seq_length])}
     return tf.estimator.export.ServingInputReceiver(inputs, inputs)
-predict_fn = tf.saved_model.load(estimator_model.export_saved_model(args.model_dir))
+
+# Load the model using export_saved_model with serving_input_receiver_fn
+predict_fn = tf.saved_model.load(estimator_model.export_saved_model(args.model_dir, serving_input_receiver_fn))
+
 
 # almost there, we now take the user prompt and tokenize with BPE
 # load BPE codes
