@@ -75,25 +75,16 @@ embedding_dim = 1280
 # we defer the transformer definition to transformer.py
 # here, we only define the tied softmax layer
 # this layer ties the softmax weights to the input embeddings
-class TiedEmbeddingSoftmax(tf.keras.layers.Layer):
+class TiedEmbeddingSoftmax(layers.Layer):
+    def __init__(self, tied_embedding_layer, **kwargs):
+        super(TiedEmbeddingSoftmax, self).__init__(**kwargs)
+        self.w = tied_embedding_layer.embeddings
 
-  def __init__(self, vocab_size=vocab_size, embedding_size=embedding_dim, **kwargs):
-    super(TiedEmbeddingSoftmax, self).__init__()
-    self.w = self.add_weight(name='w', shape=(vocab_size, embedding_size),
-                             initializer='random_normal',
-                             trainable=True)
-    self.b = self.add_weight(name='b', shape=(vocab_size,),
-                             initializer='zeros',
-                             trainable=True)
-
-  def call(self, inputs, embed=True):
-    if embed:
-      dtype = tf.keras.backend.dtype(inputs)
-      if dtype != 'int32' and dtype != 'int64':
-        inputs = math_ops.cast(inputs, 'int32')
-      return embedding_ops.embedding_lookup(self.w, inputs)
-    else:
-      return tf.tensordot(inputs, tf.transpose(self.w), 1) + self.b
+    def call(self, inputs, embed=True):
+        if embed:
+            return tf.nn.embedding_lookup(self.w, inputs)
+        else:
+            return tf.matmul(inputs, tf.transpose(self.w))
 
 # input for the keras model
 tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32')
