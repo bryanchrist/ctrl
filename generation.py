@@ -127,6 +127,11 @@ def loss(labels, logits):
 # the optimizer is not used since this code only supports inference
 # however, to compile the model, we still define it
 import tensorflow.compat.v1 as tf
+
+# Disable eager execution
+tf.compat.v1.disable_eager_execution()
+
+# however, to compile the model, we still define it
 optimizer = tf.keras.optimizers.Adam(learning_rate=1e-2)
 
 # Define placeholder for batch size
