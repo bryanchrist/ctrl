@@ -15,6 +15,7 @@ from tensorflow.python.ops import embedding_ops
 import fastBPE
 import platform
 from control_codes import CONTROL_CODES
+from tensorflow.keras import layers
 
 use_py3 = platform.python_version()[0] == '3'
 
