@@ -99,18 +99,10 @@ class TiedEmbeddingSoftmax(tf.keras.layers.Layer):
 tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32')
 
 # instantiates a tied softmax class
-import tensorflow as tf
+tied_embedding_softmax = TiedEmbeddingSoftmax()
 
-class TiedEmbeddingSoftmax(tf.keras.layers.Layer):
-    def __init__(self, w, **kwargs):
-        super(TiedEmbeddingSoftmax, self).__init__(**kwargs)
-        self.w = w
-
-    def call(self, inputs):
-        return tf.nn.embedding_lookup(self.w, inputs)
-
-# Replace the existing TiedEmbeddingSoftmax layer with the modified implementation
-embedded = TiedEmbeddingSoftmax(w, name="embedding")(tokens)
+# embedded tokens, before passing it to the transformer
+embedded = tied_embedding_softmax(tokens, embed=True)
 
 # the activations after passing it from the transformer
 # for some odd reason, TPUs don't play well with specifying the arguments of the Encoder() function
@@ -208,14 +200,12 @@ estimator_model = tf.estimator.Estimator(model_fn=model_fn, config=run_config)
 # we now create a serving function from this estimator
 # this enables us to load the model once and easily query it multiple times
 # Define the serving input function
-tf.compat.v1.disable_eager_execution()
 def serving_input_receiver_fn():
     inputs = {'input_1': tf.placeholder(tf.int32, [1, seq_length])}
     return tf.estimator.export.ServingInputReceiver(inputs, inputs)
 
 # Load the model using export_saved_model with serving_input_receiver_fn
 predict_fn = tf.saved_model.load(estimator_model.export_saved_model(args.model_dir, serving_input_receiver_fn))
-
 
 # almost there, we now take the user prompt and tokenize with BPE
 # load BPE codes
