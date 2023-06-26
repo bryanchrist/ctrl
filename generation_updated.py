@@ -91,7 +91,8 @@ class TiedEmbeddingSoftmax(layers.Layer):
 tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32')
 
 # instantiates a tied softmax class
-tied_embedding_softmax = TiedEmbeddingSoftmax()
+tied_embedding_layer = tf.keras.layers.Embedding(input_dim=vocab_size, output_dim=embedding_dim)
+tied_embedding_softmax = TiedEmbeddingSoftmax(tied_embedding_layer)
 
 # embedded tokens, before passing it to the transformer
 embedded = tied_embedding_softmax(tokens, embed=True)

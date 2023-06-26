@@ -27,5 +27,5 @@ EXPOSE 8888
 CMD ["jupyter", "lab","--ip=0.0.0.0","--allow-root"]
 #BUILDS JUPYTER LAB for development environment - run this if you want to develop the code
 
-#CMD ["python", "/solmathdashboard/app/templates/app.py"]
+#CMD ["python", "/ctrl/training_utils/training_updated.py"]
 #run this if you want to deploy the app upon launching the docker container
