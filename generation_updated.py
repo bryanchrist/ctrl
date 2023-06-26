@@ -79,13 +79,13 @@ embedding_dim = 1280
 class TiedEmbeddingSoftmax(layers.Layer):
     def __init__(self, tied_embedding_layer, **kwargs):
         super(TiedEmbeddingSoftmax, self).__init__(**kwargs)
-        self.w = tied_embedding_layer.embeddings
+        self.w = tied_embedding_layer
 
     def call(self, inputs, embed=True):
         if embed:
-            return tf.nn.embedding_lookup(self.w, inputs)
+            return self.w(inputs)
         else:
-            return tf.matmul(inputs, tf.transpose(self.w))
+            return tf.matmul(inputs, tf.transpose(self.w.embeddings))
 
 # input for the keras model
 tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32')
@@ -96,6 +96,7 @@ tied_embedding_softmax = TiedEmbeddingSoftmax(tied_embedding_layer)
 
 # embedded tokens, before passing it to the transformer
 embedded = tied_embedding_softmax(tokens, embed=True)
+
 
 # the activations after passing it from the transformer
 # for some odd reason, TPUs don't play well with specifying the arguments of the Encoder() function
