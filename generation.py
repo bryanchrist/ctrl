@@ -127,9 +127,14 @@ def loss(labels, logits):
 # the optimizer is not used since this code only supports inference
 # however, to compile the model, we still define it
 optimizer = tf.keras.optimizers.Adam(learning_rate=1e-2)
-grads, _ = tf.clip_by_norm(tf.gradients(loss, model.trainable_variables), 0.25)
-train_op = optimizer.apply_gradients(zip(grads, model.trainable_variables))
-     
+
+with tf.GradientTape() as tape:
+    logits = model(tokens)
+    loss_value = loss(labels, logits)
+
+grads = tape.gradient(loss_value, model.trainable_variables)
+clipped_grads, _ = tf.clip_by_global_norm(grads, 0.25)
+train_op = optimizer.apply_gradients(zip(clipped_grads, model.trainable_variables))
 
 # compile the model with the optimizer and loss            
 model.compile(optimizer=optimizer, loss=loss)
