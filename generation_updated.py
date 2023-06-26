@@ -99,10 +99,18 @@ class TiedEmbeddingSoftmax(tf.keras.layers.Layer):
 tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32')
 
 # instantiates a tied softmax class
-tied_embedding_softmax = TiedEmbeddingSoftmax()
+import tensorflow as tf
 
-# embedded tokens, before passing it to the transformer
-embedded = tied_embedding_softmax(tokens, embed=True)
+class TiedEmbeddingSoftmax(tf.keras.layers.Layer):
+    def __init__(self, w, **kwargs):
+        super(TiedEmbeddingSoftmax, self).__init__(**kwargs)
+        self.w = w
+
+    def call(self, inputs):
+        return tf.nn.embedding_lookup(self.w, inputs)
+
+# Replace the existing TiedEmbeddingSoftmax layer with the modified implementation
+embedded = TiedEmbeddingSoftmax(w, name="embedding")(tokens)
 
 # the activations after passing it from the transformer
 # for some odd reason, TPUs don't play well with specifying the arguments of the Encoder() function
